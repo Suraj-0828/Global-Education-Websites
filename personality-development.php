@@ -58,10 +58,10 @@
                             <h3 class="title color-breadcrumb-1">Personality Development</h3>
                             <nav class="breadcrumb">
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </span>
                                 <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
-                                <span property="itemListElement" typeof="ListItem">Personality Developmentg</span>
+                                <span property="itemListElement" typeof="ListItem">Personality Development</span>
                             </nav>
                         </div>
                     </div>

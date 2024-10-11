@@ -94,7 +94,7 @@
                                                     <img src="assets/img/home/arman-varma-updated.png" alt="Mr. Pramod Chikerur">
                                                 </div>
 
-                                                <h2>Mr. Arman Verma</h2>
+                                                <h2>Mr. Armaan Verma</h2>
                                                 <p>
                                                     Founder & Director, Global Overseas Education
 
@@ -107,10 +107,10 @@
                                                 <p>
                                                     Certified by the British Council and associated with IDP, Armaan is a seasoned IELTS trainer. In addition to IELTS, he also teaches TOEFL, PTE, and Duolingo for English proficiency, equipping students with the language skills needed to excel in international academic environments.
 
-                                                </p>
-                                                <p>Through <a href="https://globaleducation4u.com/">globaleducation4u.com</a> , Armaan's company, he provides personalized consulting services for students aspiring to study abroad. His guidance spans leading education destinations such as the UK, USA, Canada, New Zealand, Ireland, Australia, Germany, and more, helping students navigate the complexities of international education and making their dream of studying abroad a reality.
+                                                Through <a href="https://globaleducation4u.com/">globaleducation4u.com</a> , Armaan's company, he provides personalized consulting services for students aspiring to study abroad. His guidance spans leading education destinations such as the UK, USA, Canada, New Zealand, Ireland, Australia, Germany, and more, helping students navigate the complexities of international education and making their dream of studying abroad a reality.
                                                 </p>
                                                 <p>With his extensive knowledge, commitment to student success, and passion for education, Armaan Verma continues to be a trusted advisor and mentor for students worldwide.</p>
+                                                <p>He has been ruining an IELTS / English training institute for more than 15 years : <a href="https://www.ieltstutor.in/">www.ieltstutor.in</a></p>
                                             </div>
                                         </div>
 

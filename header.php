@@ -8,17 +8,18 @@
                     <div class="tgmenu__wrap">
                         <nav class="tgmenu__nav">
                             <div class="logo">
-                                <a href="https://globaleducation4u.com/"><img class="abc" src="assets/img/logo/logo.png" alt="Logo"></a>
+                                <a href="https://globaleducation4u.com/"><img class="logo-fixed" src="assets/img/logo/logo.webp" alt="Logo"></a>
                             </div>
                             <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                 <ul class="navigation">
                                     <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'index.php' ? 'activee' : '' ?>" href="https://globaleducation4u.com/">Home</a>
                                     </li>
-                                    <li class="<?= basename($_SERVER['PHP_SELF']) == 'about-us.php' ? 'activee' : '' ?>" class="menu-item-has-children"><a href="javascript:void(0)">About us</a>
+                        
+
+                                    <li class="menu-item-has-children"><a href="javascript:void(0)">About us</a>
                                         <ul class="sub-menu">
-                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'why-us.php' ? 'activee' : '' ?>" href="why-us.php">Why Us</a></li>
-                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'co-founder.php' ? 'activee' : '' ?>" href="co-founder.php">Founder</a></li>
-                                            
+                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'study-uk.php' ? 'activee' : '' ?>" href="why-us.php">Why Us</a></li>
+                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'study-usa.php' ? 'activee' : '' ?>" href="co-founder.php">Founder</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0)">Study Abroad</a>
@@ -42,27 +43,30 @@
                                             <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'gmat.php' ? 'activee' : '' ?>" href="gmat.php">GMAT</a></li>
                                             <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'sat.php' ? 'activee' : '' ?>" href="sat.php">SAT</a></li>
 
-            
+
 
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children"><a href="#">Skills Training</a>
                                         <ul class="sub-menu">
-                                        
-                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'english-training.php' ? 'activee' : '' ?>" href="english-training.php">English language training</a></li>
 
-                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'public-speaking.php' ? 'active' : '' ?>" href="public-speaking.php">Public Speaking</a></li>
-                                            
-                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'creative-writin.php' ? 'activee' : '' ?>" href="creative-writing.php">Creative Writing</a></li>
+                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'english-training.php' ? 'activee' : '' ?>" href="english-training.php">English language</a></li>
 
-                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'personal-traning.php' ? 'activee' : '' ?>" href="personal-traning.php">Personal Training</a></li>
-
-                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'personality-development.php' ? 'active' : '' ?>" href="personality-development.php">Personality Development</a></li>
                                             <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'germany.php' ? 'activee' : '' ?>" href="germany.php">German Language </a></li>
 
                                             <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'french.php' ? 'activee' : '' ?>" href="french.php">French Language </a></li>
 
                                             <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'spanish.php' ? 'activee' : '' ?>" href="spanish.php">Spanish Language</a></li>
+
+                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'public-speaking.php' ? 'active' : '' ?>" href="public-speaking.php">Public Speaking</a></li>
+
+                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'creative-writin.php' ? 'activee' : '' ?>" href="creative-writing.php">Creative Writing</a></li>
+
+                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'personal-traning.php' ? 'activee' : '' ?>" href="personal-traning.php">Personal Training</a></li>
+
+
+                                            <li><a class="<?= basename($_SERVER['PHP_SELF']) == 'personality-development.php' ? 'active' : '' ?>" href="personality-development.php">Personality Development</a></li>
+                                                 
 
 
                                         </ul>
@@ -127,11 +131,11 @@
                             </div>
                             <div class="social-links">
                                 <ul class="list-wrap">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=61567127664976"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="https://www.youtube.com/@GlobalEducation-f1h"><i class="fab fa-youtube"></i></a></li>
                                 </ul>
                             </div>
                         </nav>

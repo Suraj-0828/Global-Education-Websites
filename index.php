@@ -38,82 +38,139 @@
     <link rel="stylesheet" href="assets/css/spacing.css">
     <link rel="stylesheet" href="assets/css/tg-cursor.css">
     <link rel="stylesheet" href="assets/css/main.css">
+
+
+<!-- jQuery (required for Bootstrap JS) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 </head>
 
 <body>
+
+
 
     <!-- Header Pages -->
     <?php include 'header.php'; ?>
     <!-- Header Pages -->
 
 
+    
+<!-- Modal HTML -->
+<div class="modal fade" id="modal-subscribe" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content shadow-lg rounded-3">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title" id="myModalLabel">Enquiry Form</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body bg-light p-4">
+                <form method="post" action="script/contact.php">
+                    <input type="hidden" name="dzToDo" value="Contact">
+                    <div class="row">
+                        <!-- Child's Name -->
+                        <div class="mb-3 col-md-12">
+                            <label for="childName" class="form-label">Full Name</label>
+                            <input name="dzName" id="childName" type="text" class="form-control" required placeholder="Enter your name">
+                        </div>
+                       
+                        <!-- Phone Number -->
+                        <div class="mb-3 col-md-12">
+                            <label for="dzPhone" class="form-label">Phone Number</label>
+                            <input name="dzOther[Phone]" id="dzPhone" type="text" class="form-control" required placeholder="Enter your phone number">
+                        </div>
+
+                        <!-- Message's Name -->
+                        <div class="mb-3 col-md-12">
+                            <label for="childName" class="form-label">Message</label>
+                            <input name="dzName" id="childName" type="text" class="form-control" required placeholder="Message">
+                        </div>
+                       
+                    </div>
+                    <!-- Submit Button -->
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary btn-lg w-100">Send Message</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function() {
+        setTimeout(function() {
+            $('#modal-subscribe').modal('show');
+        }, 500);
+    });
+</script>
+
     <!-- main-area -->
     <main class="main-area fix">
 
 
-    <div id="carouselExampleInterval" class="carousel slide desktop101" data-bs-ride="carousel" data-bs-pause="hover">
-    <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="3000">
-            <img src="assets/img/home/banner/banner-1.jpg" class="d-block w-100" alt="...">
+        <div id="carouselExampleInterval" class="carousel slide desktop101" data-bs-ride="carousel" data-bs-pause="hover">
+            <div class="carousel-inner">
+                <div class="carousel-item active" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/banner-1.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/banner-2.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/banner-3.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/banner-4.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/banner-5.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/banner-6.jpg" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
         </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/banner-2.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/banner-3.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/banner-4.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/banner-5.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/banner-6.jpg" class="d-block w-100" alt="...">
-        </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </button>
-</div>
 
 
 
         <div id="carouselExampleInterval1" class="carousel slide mobile102" data-bs-ride="carousel">
-    <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="3000">
-            <img src="assets/img/home/banner/mobile-1.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-inner">
+                <div class="carousel-item active" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/mobile-1.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/mobile-2.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/mobile-3.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/mobile-4.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/mobile-5.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="assets/img/home/banner/mobile-6.jpg" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval1" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval1" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
         </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/mobile-2.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/mobile-3.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/mobile-4.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/mobile-5.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img src="assets/img/home/banner/mobile-6.jpg" class="d-block w-100" alt="...">
-        </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval1" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval1" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </button>
-</div>
 
 
         <!-- header section close-->
@@ -177,8 +234,8 @@
         </section>
         <!-- about-area-end -->
 
-         <!-- courses-details-area -->
-         <section class="courses__details-area padding-bottom">
+        <!-- courses-details-area -->
+        <section class="courses__details-area padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12 col-lg-12">
@@ -380,8 +437,8 @@
                                             </a>
                                         </div>
                                     </div>
-                                    
-                                    
+
+
                                     <div class="swiper-slide">
                                         <div class="categories__item">
                                             <a href="germany.php">
@@ -404,8 +461,8 @@
                                             </a>
                                         </div>
                                     </div>
-                                    
-                                    
+
+
                                     <div class="swiper-slide">
                                         <div class="categories__item">
                                             <a href="study-uk.php">
@@ -461,7 +518,7 @@
                                 <h2 class="title">Explore Our World's Best Courses</h2>
                                 <p class="desc">Choose from over 1,100 renowned universities worldwide, ranging from Ivy League institutions to globally recognized universities in every field of study.</p>
                             </div>
-                           
+
                         </div>
                     </div>
                 </div>

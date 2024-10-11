@@ -266,7 +266,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Master in Marketing, University of British Columbia, Canada</p>
-                                                <p>“ My experience at UBC has been incredible. The program's focus on innovative marketing strategies and real-world applications has profoundly shaped my understanding and prepared me for success in the industry.”</p>
+                                                <p>“ Many Thanks to Mr. Armaan Verma at Global overseas education in Bandra (W) who taught me IELTS & interview skills and assisted me to approach an international education in Canada. ”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -292,7 +292,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Bachelor in Finance, Coventry University, UK</p>
-                                                <p>“ Coventry University provided me with a strong foundation in finance and an enriching cultural experience. It helped me grow professionally and personally, preparing me for the global job market.”</p>
+                                                <p>“ I would like to thank to Mr. Verma for my IELTS preparation and his guidance to get my education in this university.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -320,7 +320,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Bachelor in Mechanical Engineering, FOM University, Germany</p>
-                                                <p>“ My time at FOM University was invaluable. The hands-on approach in mechanical engineering and exposure to cutting-edge technology gave me the confidence to tackle real-world challenges.”</p>
+                                                <p>“ I must appreciate and pay my regards to IELTS tutor and Global Overseas education in Bandra (W) due to their support I am learning here in Germany for my great educational career.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -346,7 +346,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Master in Banking and Finance, Monash University, Australia</p>
-                                                <p>“ Monash University offered me a comprehensive understanding of banking and finance. The dynamic curriculum and global perspective greatly enhanced my career readiness in the financial sector.”</p>
+                                                <p>“ : I am very grateful to Global Overseas Education in Bandra west where I got all required support and guidance for my educational journey. ”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -372,7 +372,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Master in Marketing, University of British Columbia, Canada</p>
-                                                <p>“ Studying at UBC was a game-changer. The advanced marketing curriculum and diverse learning environment equipped me with essential skills and opened doors to amazing career opportunities.”</p>
+                                                <p>“Before taking this journey ahead, I approached Global Overseas Education and I met Armaan sir, he guided me to get through this university’s admission. Thank you so much sir for your support.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -398,7 +398,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Master of Cyber Security and Digital Forensics, Auckland University, New Zealand</p>
-                                                <p>“ Auckland University provided an exceptional learning experience in cyber security. The curriculum's focus on practical skills and real-world applications prepared me to excel in this fast-evolving field.”</p>
+                                                <p>“ This was my dream that I am studying in Newzealand at the moment and all credit goes to the Armaan sir and my friend Mr. Nilesh who supported me for my career prospect.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -424,7 +424,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Master of Cyber Security and Digital Forensics, Auckland University, New Zealand</p>
-                                                <p>“ Studying at Auckland University has been transformative. The collaborative environment and cutting-edge research opportunities in digital forensics have equipped me with the skills to thrive in the cyber security landscape.”</p>
+                                                <p>“ I am speechless for the help and support by the Global Overseas education where I cleared my IELTS and PTE and got my admission in Auckland University in NewZealand.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -450,7 +450,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Bachelor of Business Administration, University of East London</p>
-                                                <p>“ I'm excited to start my journey at the University of East London. The BBA program promises to equip me with essential business skills and a global perspective that will prepare me for a successful career.”</p>
+                                                <p>“ Thank you very much to Armaan sir and his team for the assistance of my overseas education.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -476,7 +476,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">LLM, Queen Mary University, UK</p>
-                                                <p>“ Pursuing my LLM at Queen Mary University is a dream come true. The university's renowned law faculty and diverse learning environment will enhance my legal expertise and open doors to international opportunities.”</p>
+                                                <p>“ I was afraid of my admission in this university because I had less time to apply for Sept 24 intake. However, Global overseas education assisted and guided me for my English Communication Skills and all required documents for this. Thank you very much Mr. Armaan and the team for my this educational journey.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -502,7 +502,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Bachelor of Business Administration, Texas Wesleyan University, USA</p>
-                                                <p>“ I am thrilled to join Texas Wesleyan University for my BBA. The university's commitment to academic excellence and personalized learning will help me develop essential business skills and a strong professional network.”</p>
+                                                <p>“ The USA visa appointment is a very sensitive process but Armaan sir made it easy for me. He supported me to fill i20 form, DS 160, SEVIS and Visa fees and without any travel agent, I got my Study Visa for Texas USA. Thank you very much sir.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -528,7 +528,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">MSc in Procurement and Supply Chain Management, Robert Gordon University, UK</p>
-                                                <p>“ I am excited to pursue my MSc in Procurement and Supply Chain Management at Robert Gordon University. The program's strong focus on industry practices and strategic thinking will equip me with the skills needed to excel in this dynamic field.”</p>
+                                                <p>“ In fact, my birth place is in Nepal. However,  I was assisted properly at Global overseas education for all my documents. I am happy that I am studying in the UK with the support of Global education team in Bandra west.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -554,7 +554,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Master in Marketing, University of Strathclyde, UK</p>
-                                                <p>“ I'm eager to start my Master in Marketing at the University of Strathclyde. The program's strong emphasis on practical skills and innovative marketing strategies will prepare me for a successful career in the field.”</p>
+                                                <p>“ I would thank a lot to Global Overseas Education team for my Study abroad process to this countery.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -582,7 +582,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">Bachelor in Mechanical Engineering, FOM University, Germany</p>
-                                                <p>“ Studying at FOM University has been a transformative experience. The practical approach to mechanical engineering and exposure to advanced technologies have equipped me with the skills needed to excel in my field.”</p>
+                                                <p>“ For this, I visited at GLOBAL overseas education a couple of months ago. I met Mr. Verma and expressed my desire to study mechanical Engineering in Germany. He immediately guided me for my documents. For instance, My blocked account, AVS form, IELTS exam and Visa, etc. Thank you very much  for the instant information.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -608,7 +608,7 @@
                                             </div>
                                             <div class="testimonial__content">
                                                 <p class="color-black">MBA in Finance, University of Pennsylvania</p>
-                                                <p>“ Pursuing my MBA in Finance at the University of Pennsylvania has been a remarkable journey. The program's rigorous curriculum and emphasis on real-world applications have greatly enhanced my financial acumen and career prospects.”</p>
+                                                <p>“ I visited at Global Overseas education and they guided me to approach my education from this university according to my academic background. Thank you Global education team.”</p>
                                             </div>
                                         </div>
                                     </div>
