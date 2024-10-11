@@ -64,25 +64,25 @@
                 <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body bg-light p-4">
-                <form method="post" action="script/contact.php">
+                <form method="post" action="backend">
                     <input type="hidden" name="dzToDo" value="Contact">
                     <div class="row">
                         <!-- Child's Name -->
                         <div class="mb-3 col-md-12">
                             <label for="childName" class="form-label">Full Name</label>
-                            <input name="dzName" id="childName" type="text" class="form-control" required placeholder="Enter your name">
+                            <input name="name" id="childName" type="text" class="form-control" required placeholder="Enter your name">
                         </div>
                        
                         <!-- Phone Number -->
                         <div class="mb-3 col-md-12">
                             <label for="dzPhone" class="form-label">Phone Number</label>
-                            <input name="dzOther[Phone]" id="dzPhone" type="text" class="form-control" required placeholder="Enter your phone number">
+                            <input name="phone" id="dzPhone" type="text" class="form-control" required placeholder="Enter your phone number">
                         </div>
 
                         <!-- Message's Name -->
                         <div class="mb-3 col-md-12">
                             <label for="childName" class="form-label">Message</label>
-                            <input name="dzName" id="childName" type="text" class="form-control" required placeholder="Message">
+                            <input name="message" id="childName" type="text" class="form-control" required placeholder="Message">
                         </div>
                        
                     </div>

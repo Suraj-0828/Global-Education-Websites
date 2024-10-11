@@ -3,7 +3,7 @@
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
-    $to = 'suraj.itarsia@gmail.com';
+    $to = 'info@globaleduction4u.com';
     $subject = 'Contact Us - Form Enquiry';
 
 
@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $data .= '<tr><td>Full Name: </td><td>' . $_POST['name'] . '</td></tr>';
     $data .= '<tr><td>Email ID: </td><td>' . $_POST['email'] . '</td></tr>';
     $data .= '<tr><td>Phone No: </td><td>' . $_POST['phone'] . '</td></tr>';
-    $data .= '<tr><td>PostCode: </td><td>' . $_POST['postcode'] . '</td></tr>';
+    $data .= '<tr><td>PostCode: </td><td>' . $_POST['address'] . '</td></tr>';
     $data .= '<tr><td>Message: </td><td>' . $_POST['message'] . '</td></tr>';
 
     $data .= '<tr><td>IP Adderss  </td><td>' . $_SERVER['REMOTE_ADDR'] . '</td></tr>';
@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
-    $headers .= 'From: Contact Us <info@thefernfacilityservices.co.uk>' . "\r\n";
+    $headers .= 'From: Contact Us <info@globaleduction4u.com>' . "\r\n";
 
     header('Content-Type: application/json');
 

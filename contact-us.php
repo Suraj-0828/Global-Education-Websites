@@ -102,7 +102,7 @@
                                     </div>
                                     <div class="content">
                                         <h4 class="title">E-mail Address</h4>
-                                        <a class="mail-size" href="mailto:info@gmail.com">Example@globaleduction4u.com</a>
+                                        <a class="mail-size" href="mailto:info@gmail.com">info@globaleduction4u.com</a>
                                     </div>
                                 </li>
                                 <li>
